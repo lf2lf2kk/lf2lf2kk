@@ -40,8 +40,8 @@
 </h2>
 
 <h4 align="center">
-	I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
-	In my University courses, I enrolled in so many fields including Machine Learning and so on
+	I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.  <br/>
+	I like to explore so many fields to improve my techniques.
 </h4>
 <br/>
 <h4 align="center">
