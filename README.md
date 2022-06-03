@@ -41,6 +41,7 @@
 
 <h4 align="center">
 	I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
+	In my University courses, I enrolled in so many fields including Machine Learning and so on
 </h4>
 <br/>
 <h4 align="center">
@@ -50,7 +51,7 @@
 <br/>
 <h4 align="center">
 	:zap: Solving coding problems on GeeksforGeeks or Leetcode and <br/> 
-				reading tech-articles are my daily routing.
+				reading tech-articles are my daily routine.
 </h4>
 <br/>
 <h4 align="center">
