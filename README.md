@@ -6,9 +6,9 @@
 	  <a href="https://www.linkedin.com/in/lf2lf2kk/">
 			<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	  </a>
-	  <a href="https://broccolimedia.net/">
-			<img src="https://img.shields.io/badge/BroccoliMedia-orange?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
-	  </a>
+	  <a href="https://fusheng.info/">
+		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
+	</a>
 	  <a href="https://www.facebook.com/fusheng902">
 			<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 	  </a>
