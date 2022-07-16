@@ -61,7 +61,7 @@
 	<a href="https://fusheng.info/">
 		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 	</a>
-	<a href="https://github.com/Fu-Sheng-Huang/portfolio/">
+	<a href="https://github.com/Fu-Sheng-Huang">
 		<img src="https://img.shields.io/badge/MyRepo-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
 	</a>
 </div>	
