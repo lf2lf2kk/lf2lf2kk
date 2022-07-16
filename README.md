@@ -55,11 +55,14 @@
 </h4>
 <br/>
 <h4 align="center">
-	:house: Here's my latest personal portfolio website:
+	:house: Here's my latest personal portfolio website: 
 </h4>
 <div align="center">
 	<a href="https://fusheng.info/">
-		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=Netlify&logoColor=white" width="20%" height="20%" alt="Netlify Badge"/>
+		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
+	</a>
+	<a href="https://github.com/Fu-Sheng-Huang/portfolio/">
+		<img src="https://img.shields.io/badge/MyRepo-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
 	</a>
 </div>	
 <br/>
