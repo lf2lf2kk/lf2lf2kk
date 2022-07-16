@@ -40,17 +40,17 @@
 </h2>
 
 <h4 align="center">
-	I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.  <br/>
-	I like to explore so many fields to improve my techniques.
+	I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.  <br/>
+	Daily routine is to explore so many fields to improve my techniques.
 </h4>
 <br/>
 <h4 align="center">
 	:telescope: working as a Software Engineer and <br/>
-				contributing to both frontend and backend for building web applications.
+				contributing to both frontend and backend for building web applications & mobile applications.
 </h4>
 <br/>
 <h4 align="center">
-	:zap: Solving coding problems on GeeksforGeeks or Leetcode and <br/> 
+	:zap: Solving coding problems on Leetcode and <br/> 
 				reading tech-articles are my daily routine.
 </h4>
 <br/>
@@ -111,8 +111,8 @@
 ---
 
 <h3 align="center">
-	🔭 I’m currently working on my little business website, I want to host my website under high quality security <br/>
-	In order to achieve my goal, I enrolled the security course on Coursera.
+	🔭 Currently working on second portfolio website, wish to host the website with more great features <br/>
+	In order to achieve my goal, I am preparing for AWS certificates.
 </h3>
 <br/>
 
