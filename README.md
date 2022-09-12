@@ -9,9 +9,6 @@
 	<a href="https://fusheng.info/">
 		<img src="https://img.shields.io/badge/FuSheng-orange?style=for-the-badge&logo=Netlify&logoColor=black" alt="Netlify Badge"/>
 	</a>
-	<a href="https://www.facebook.com/fusheng902">
-		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-	</a>
 </div>
 
 <h1 align="center">
@@ -19,15 +16,15 @@
    	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=FuShengK&style=flat-square&color=blue" alt=""/>
-</div>
-
 ---
 
 <h2 align="center">
 	:fire: My Stats :
 </h2>
+
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=FuShengK&style=flat-square&color=blue" alt=""/>
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FuShengK&theme=dark&background=193240)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuShengK&show_icons=true&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -112,12 +109,6 @@
 <br/>
 
 ---
-
-<h3 align="center">
-	🔭 Currently working on second portfolio website, wish to host the website with more great features <br/>
-	In order to achieve my goal, I am preparing for AWS certificates.
-</h3>
-<br/>
 
 <div align="center">
 </div>
