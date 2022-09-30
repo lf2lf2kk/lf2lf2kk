@@ -7,7 +7,10 @@
 		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://fusheng.info/">
-		<img src="https://img.shields.io/badge/FuSheng-orange?style=for-the-badge&logo=Netlify&logoColor=black" alt="Netlify Badge"/>
+		<img src="https://img.shields.io/badge/FuSheng-orange?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
+	</a>
+	<a href="https://fushengh.com/">
+		<img src="https://img.shields.io/badge/FuSheng-gray?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 	</a>
 </div>
 
