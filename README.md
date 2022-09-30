@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-	<a href="https://www.linkedin.com/in/lf2lf2kk/">
+	<a href="https://www.linkedin.com/in/lf2lf2kk/" target="_blank" rel="noreferrer">
 		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
-	<a href="https://fusheng.info/">
+	<a href="https://fusheng.info/" target="_blank" rel="noreferrer">
 		<img src="https://img.shields.io/badge/FuSheng-orange?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 	</a>
-	<a href="https://fushengh.com/">
+	<a href="https://fushengh.com/" target="_blank" rel="noreferrer">
 		<img src="https://img.shields.io/badge/JeremyTutor-gray?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 	</a>
 </div>
@@ -61,7 +61,7 @@
 	<a href="https://fusheng.info/">
 		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 	</a>
-	<!-- <a href="https://github.com/Fu-Sheng-Huang">
+	<!-- <a href="https://github.com/Fu-Sheng-Huang" target="_blank" rel="noreferrer">
 		<img src="https://img.shields.io/badge/MyRepo-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
 	</a> -->
 </div>	
