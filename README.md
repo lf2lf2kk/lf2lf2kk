@@ -9,7 +9,7 @@
 	<a href="https://fusheng.info/" target="_blank" rel="noreferrer">
 		<img src="https://img.shields.io/badge/FuSheng-orange?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 	</a>
-	<a href="https://fushengh.com/" target="_blank" rel="noreferrer">
+	<a href="https://tutor.fusheng.info/" target="_blank" rel="noreferrer">
 		<img src="https://img.shields.io/badge/JeremyTutor-gray?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 	</a>
 </div>
