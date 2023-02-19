@@ -4,13 +4,16 @@
 
 <div id="badges" align="center">
 	<a href="https://www.linkedin.com/in/lf2lf2kk/" target="_blank" rel="noreferrer">
-		<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+		<img src="https://img.shields.io/badge/Fu%20Sheng%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://fusheng.info/" target="_blank" rel="noreferrer">
-		<img src="https://img.shields.io/badge/FuSheng-orange?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
+		<img src="https://img.shields.io/badge/Fu%20Sheng-orange?style=for-the-badge&logo=Netlify&logoColor=white" alt="Personal Portfolio"/>
+	</a>
+	<a href="https://www.whdreams.com/" target="_blank" rel="noreferrer">
+		<img src="https://img.shields.io/badge/WH%20IT%20SERVICE-sky?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Wh IT Service"/>
 	</a>
 	<a href="https://tutor.fusheng.info/" target="_blank" rel="noreferrer">
-		<img src="https://img.shields.io/badge/JeremyTutor-gray?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
+		<img src="https://img.shields.io/badge/Jeremy%20Tutor-gray?style=for-the-badge&logo=Netlify&logoColor=white" alt="Jeremy Tutor"/>
 	</a>
 </div>
 
