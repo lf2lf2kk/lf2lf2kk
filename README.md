@@ -40,22 +40,19 @@
 </h2>
 
 <h4 align="center">
-	I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.  <br/>
-	Daily routine is to explore so many fields to improve my techniques.
+	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I born in Taiwan. and I am a passionate Software Engineer in Australia <br/>
 </h4>
 <br/>
 <h4 align="center">
-	:telescope: working as a Software Engineer and <br/>
-				contributing to both frontend and backend for building web applications & mobile applications.
+	:telescope: As a Software Engineer, contributing to build a stable system and functional platform is one of my missions.
 </h4>
 <br/>
 <h4 align="center">
-	:zap: Solving coding problems on Leetcode and <br/> 
-				reading tech-articles are my daily routine.
+	:zap: Solving issues related to many fields including Backend, Frontend, Cloud Infrastructure, Site Reliability Engineering, Machine Learning, and Automation 			are all my interests and professions. 
 </h4>
 <br/>
 <h4 align="center">
-	:house: Here's my latest personal portfolio website: 
+	:house: Here's my personal portfolio website: 
 </h4>
 <div align="center">
 	<a href="https://fusheng.info/">
