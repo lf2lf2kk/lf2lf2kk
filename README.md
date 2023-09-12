@@ -38,22 +38,6 @@
 
 ---
 
-<h2 align="center">
-	⛵ About Me :
-</h2>
-
-<h4 align="center">
-	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I born in Taiwan. and I am a passionate Software Engineer in Australia <br/>
-</h4>
-<br/>
-<h4 align="center">
-	:telescope: As a Software Engineer, contributing to build a stable system and functional platform is one of my missions.
-</h4>
-<br/>
-<h4 align="center">
-	:zap: Solving issues related to many fields including Backend, Frontend, Cloud Infrastructure, Site Reliability Engineering, Machine Learning, and Automation 			are all my interests and professions. 
-</h4>
-<br/>
 <h4 align="center">
 	:house: Here's my personal portfolio website: 
 </h4>
@@ -65,6 +49,14 @@
 		<img src="https://img.shields.io/badge/MyRepo-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
 	</a> -->
 </div>	
+
+<h2 align="center">
+	⛵ About Me :
+</h2>
+
+<h4 align="center">
+	With hands-on experience as a DevOps Engineer, a Software Developer, and multiple cloud projects, I've cultivated a strong foundation in both backend and frontend development, cloud services, and infrastructure management.
+</h4>
 <br/>
 
 ---
@@ -78,8 +70,14 @@
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons//-original.svg" title=""  alt="" width="40" height="40"/>&nbsp; -->
 
 <div align="center">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
