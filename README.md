@@ -32,9 +32,6 @@
 	<img src="https://komarev.com/ghpvc/?username=FuShengK&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](https://github-streak-56c17067b7a3.herokuapp.com?user=FuShengK&theme=gotham&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)
- 
-<br/>
 
 ---
 
