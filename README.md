@@ -6,8 +6,8 @@
 <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>  
 
 ## I'm a Husband, Developer, Tutor, and Mentor
-- 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
 - 📚 I'm constantly learning new skills in languages and tools, and _striving for progress_
+- 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students from uni & fellow developers
 - 🏆 Goal: Be the person I needed when I was younger
 
 ## 💻 Useful Links:
