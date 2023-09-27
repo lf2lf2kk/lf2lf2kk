@@ -12,19 +12,19 @@
 
 ## 💻 Useful Links:
 #### My Personal Website
-<a href="https://fusheng.info/" target="_blank" rel="noreferrer">
+<a href="https://fusheng.info/" target="blank" rel="noreferrer">
 	<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
 </a>
 <br />
 
 #### My Side Hustle Website
-<a href="https://www.whdreams.com/" target="_blank" rel="noreferrer">
+<a href="https://www.whdreams.com/" target="blank" rel="noreferrer">
 	<img src="https://img.shields.io/badge/WH%20IT%20SERVICE-sky?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Wh IT Service"/>
 </a>
 <br />
 
 #### My Tutor Website
-<a href="https://tutor.fusheng.info/" target="_blank" rel="noreferrer">
+<a href="https://tutor.fusheng.info/" target="blank" rel="noreferrer">
 	<img src="https://img.shields.io/badge/Jeremy%20Tutor-gray?style=for-the-badge&logo=Netlify&logoColor=white" alt="Jeremy Tutor"/>
 </a>
 
@@ -32,7 +32,7 @@
 <br />
 
 ## 📬 Connect with me:
-<a href="https://www.linkedin.com/in/lf2lf2kk/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/lf2lf2kk/" target="blank" rel="noreferrer">
 	<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fu-Sheng Huang | LinkedIn" height="30" width="40" />
 </a>
 
