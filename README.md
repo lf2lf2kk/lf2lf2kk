@@ -13,7 +13,7 @@
 ## 💻 Useful Links:
 #### My Personal Website
 <a href="https://fusheng.info/" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/FU-SHENG%20PORTFOLIO-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Netlify Badge"/>
+	<img src="https://img.shields.io/badge/FU%2DSHENG%20PORTFOLIO-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Netlify Badge"/>
 </a>
 <br />
 
@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://jeremysharetech.com/" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/WH%20IT%20SERVICE-cyan?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Jeremy Share Tech"/>
+	<img src="https://img.shields.io/badge/JEREMY%20SHARE%20TECH-cyan?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Jeremy Share Tech"/>
 </a>
 <br />
 
