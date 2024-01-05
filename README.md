@@ -13,7 +13,7 @@
 ## 💻 Useful Links:
 #### My Personal Website
 <a href="https://fusheng.info/" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/FuSheng-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge"/>
+	<img src="https://img.shields.io/badge/FU-SHENG%20PORTFOLIO-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Netlify Badge"/>
 </a>
 <br />
 
@@ -23,9 +23,19 @@
 </a>
 <br />
 
+#### My YouTube Channel + YouTube Website
+<a href="https://www.youtube.com/@jeremysharetech" target="blank" rel="noreferrer">
+	<img src="https://img.shields.io/badge/JEREMY%20SHARE%20TECH-red?style=for-the-badge&logo=Youtube&logoColor=white" alt="Jeremy Share Tech"/>
+</a>
+
+<a href="https://jeremysharetech.com/" target="blank" rel="noreferrer">
+	<img src="https://img.shields.io/badge/WH%20IT%20SERVICE-cyan?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Jeremy Share Tech"/>
+</a>
+<br />
+
 #### My Tutor Website
 <a href="https://tutor.fusheng.info/" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/Jeremy%20Tutor-gray?style=for-the-badge&logo=Netlify&logoColor=white" alt="Jeremy Tutor"/>
+	<img src="https://img.shields.io/badge/Jeremy%20Tutor-gray?style=for-the-badge&logo=Firebase&logoColor=white" alt="Jeremy Tutor"/>
 </a>
 
 <br />
