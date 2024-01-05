@@ -13,7 +13,7 @@
 ## 💻 Useful Links:
 #### My Personal Website
 <a href="https://fusheng.info/" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/FU%2DSHENG%20PORTFOLIO-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Netlify Badge"/>
+	<img src="https://img.shields.io/badge/FU%20SHENG%20PORTFOLIO-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Netlify Badge"/>
 </a>
 <br />
 
