@@ -21,22 +21,6 @@
 <a href="https://www.whdreams.com/" target="blank" rel="noreferrer">
 	<img src="https://img.shields.io/badge/WH%20IT%20SERVICE-sky?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Wh IT Service"/>
 </a>
-<br />
-
-#### My YouTube Channel + YouTube Website
-<a href="https://www.youtube.com/@jeremysharetech" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/JEREMY%20SHARE%20TECH-red?style=for-the-badge&logo=Youtube&logoColor=white" alt="Jeremy Share Tech"/>
-</a>
-
-<a href="https://jeremysharetech.com/" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/JEREMY%20SHARE%20TECH-cyan?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Jeremy Share Tech"/>
-</a>
-<br />
-
-#### My Tutor Website
-<a href="https://tutor.fusheng.info/" target="blank" rel="noreferrer">
-	<img src="https://img.shields.io/badge/Jeremy%20Tutor-gray?style=for-the-badge&logo=Firebase&logoColor=white" alt="Jeremy Tutor"/>
-</a>
 
 <br />
 <br />
